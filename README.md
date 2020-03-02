@@ -9,4 +9,4 @@ Start-Basic est un template HTML-SCSS conçu par [Sebastien Pasquier](http://the
 ## Contenu
 
 * **fichier HTML5** - Avec header, footer, balises générales et architecture EMMET
-* **fichier SCSS** - Inclu [normalize] (https://necolas.github.io/normalize.css/).
+* **fichier SCSS** - Inclu [normalize](https://necolas.github.io/normalize.css/).
